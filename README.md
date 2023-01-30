@@ -7,6 +7,8 @@
 
 文档请移步:[http://taip.mydoc.io/](http://taip.mydoc.io/)
 
+### 腾讯AI 基本已经转到腾讯云了。此SDK已经不适用。腾讯云官方有封装SDK的。转到腾讯云接口基本都需要付费使用哦~
+
 APPID APPKEY 是腾讯AI创建应用后得到。请移步腾讯AI官网获取哦。[https://ai.qq.com/](https://ai.qq.com/)
 
 QQ:783021975
